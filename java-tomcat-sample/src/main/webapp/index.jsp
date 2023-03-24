@@ -1,5 +1,6 @@
 <html>
-<body>
-<h2>Hello World! Welcome to Jenkins Training v2 Code Pipeline...</h2>
-</body>
+  <body>
+    <h2>Hello World!</h2>
+    <p>This is added as part of training</p>
+  </body>
 </html>
